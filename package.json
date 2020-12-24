@@ -10,6 +10,7 @@
     "url": "https://github.com/StormExecute/node-rules-system-esm.git"
   },
   "main": "src/index.mjs",
+  "types": "@types/index.d.ts",
   "engines": {
     "node": ">=9.0.0"
   },
