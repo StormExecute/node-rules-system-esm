@@ -10,6 +10,26 @@
     "url": "https://github.com/StormExecute/node-rules-system-esm.git"
   },
   "main": "src/index.mjs",
+  "engines": {
+    "node": ">=9.0.0"
+  },
   "type": "module",
-  "keywords": []
+  "keywords": [
+    "node-rules",
+    "node-rules-system",
+    "node-rules-esm",
+    "node-rules-system-esm",
+    "esm",
+    "esmodules",
+    "secure",
+    "node",
+    "security",
+    "node-security",
+    "rights",
+    "manager",
+    "rights-manager"
+  ],
+  "dependencies": {
+    "node-rules-system": "^1.0.0"
+  }
 }
