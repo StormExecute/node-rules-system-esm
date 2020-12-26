@@ -1,0 +1,9 @@
+dirty/
+examples/
+
+.git/
+.idea/
+
+node_modules/
+
+.npmignore
